@@ -20,3 +20,5 @@ How does the belief that success can be achieved through hard work rather than l
 - The key factor is not faith in work, but the sense of personal control over life; the relationship is nonlinear.
 
 ![Image](image.png)
+## Stack
+- R — panel regressions, data processing, visualization.
